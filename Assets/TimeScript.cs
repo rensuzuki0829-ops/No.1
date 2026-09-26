@@ -20,7 +20,7 @@ public class TimeScript : MonoBehaviour
 
     void Start()
     {
-        time = 210.0f;
+        time = 500.0f;
     }
 
     // Update is called once per frame
